@@ -4,7 +4,7 @@
 <br>
 <div align="center">
 
-![raquelfrancaa GitHub stats](https://github-readme-stats.vercel.app/api?username=raquelfrancaa&show_icons=true&bg_color=0A0012&title_color=B85CFF&text_color=E1C2FF&icon_color=FFB947&border_color=0A0012&border_radius=24)
+![raquelfrancaa GitHub stats](https://github-readme-stats.vercel.app/api?username=raquelfrancaa&show_icons=true&bg_color=0A0012&title_color=9667E0&text_color=FAFAFF&icon_color=D4BBFC&border_color=0A0012&border_radius=24)
 
 
 </div>
