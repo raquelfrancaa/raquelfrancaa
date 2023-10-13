@@ -1,10 +1,3 @@
-
-<h3 align="center">Olá! Sou a Raquel 💜</h3> <br>
-
-<div align="center">
-![raquelfrancaa GitHub stats](https://github-readme-stats.vercel.app/api?username=raquelfrancaa&show_icons=true&bg_color=0A0012&title_color=9667E0&text_color=FAFAFF&icon_color=D4BBFC&border_color=0A0012&border_radius=24)
-</div>
-
 <h2 align="center">Tecnologias que tenho conhecimento<h2>
 <div align="center">
     <img alt = "html5" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
